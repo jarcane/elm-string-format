@@ -1,8 +1,8 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "Sample Elm Test",
     "repository": "https://github.com/nathanfox/elm-string-format.git",
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "source-directories": [
         ".",
         "../src"
